@@ -1,0 +1,4 @@
+List of Comorbid
+
+Vaccination Center             IC Number        Vaccine Type      Dose
+============================================================================

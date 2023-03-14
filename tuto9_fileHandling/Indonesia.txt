@@ -1,0 +1,5 @@
+MH231/Ahmad Hasif/Bandung[Indonesia]/180/17
+AS456/Johny/Jakarta[Indonesia]/125/12
+MH121/Zabir/Medan[Indonesia]/112/4
+Average Number of Adults per flight : 139
+Average Number of Children per flight : 139
